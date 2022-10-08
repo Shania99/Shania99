@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Explainable AI**
 
-- 👨‍💻 All of my projects are available at [shania99.github.io/](https://shania99.github.io/)
+- 👨‍💻 All of my projects are available at [shania99.github.io](https://shania99.github.io/)
 
 - 📫 How to reach me **shaniamitra9@gmail.com**
 
