@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shania99&label=Profile%20views&color=0e75b6&style=flat" alt="shania99" /> </p>
 
-- 🔭 I’m currently working on **Explainable and fair AI**
-
 - 👨‍💻 All of my projects are available at [shania99.github.io](https://shania99.github.io/)
 
 - 📫 How to reach me **shaniamitra9@gmail.com**
