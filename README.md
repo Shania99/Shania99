@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shania Mitra</h1>
 <h3 align="center">A passionate Data Science student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shania99&label=Profile%20views&color=0e75b6&style=flat" alt="shania99" /> </p>
-
 - 👨‍💻 All of my projects are available at [shania99.github.io](https://shania99.github.io/)
 
 - 📫 How to reach me **shaniamitra9@gmail.com**
